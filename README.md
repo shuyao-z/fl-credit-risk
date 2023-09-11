@@ -14,9 +14,9 @@ These experiments will include a range of client numbers, from 2 to 10, and will
 
 There datasets are stored in `dataset/`, `dataset2/` and `dataset3/`
 Due to the size of the original dataset, Dataset 2 is not uploaded to the repository. 
-Dataset 1 is from https://doi.org/10.1016/j.eswa.2020.113925
-Dataset 2 is from https://www.kaggle.com/competitions/home-credit-default-risk
-Dataset 3 is from https://www.kaggle.com/competitions/GiveMeSomeCredit
+- Dataset 1 is from https://doi.org/10.1016/j.eswa.2020.113925
+- Dataset 2 is from https://www.kaggle.com/competitions/home-credit-default-risk
+- Dataset 3 is from https://www.kaggle.com/competitions/GiveMeSomeCredit
 
 ## Main files
 
